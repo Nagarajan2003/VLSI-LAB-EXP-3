@@ -60,7 +60,8 @@ OUTPUT:-
 
 Simulation:
 
-![Uploading image.png…]()
+![image](https://github.com/Nagarajan2003/VLSI-LAB-EXP-3/assets/164840481/f5a60753-7244-4fea-968e-47e7fed01ea9)
+
 
 
 
